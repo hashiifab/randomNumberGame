@@ -10,7 +10,8 @@ void main() {
   int randomNumber = generateRandomNumber();
   int attempts = 0;
   bool guessedCorrectly = false;
-
+  
+  print("Selamat datang di Judi Halal");
   print("Tebak angka antara 1 hingga 100.");
 
   while (!guessedCorrectly) {
